@@ -1,2 +1,2 @@
 # SampleTest
-basic git hub commands
+basic git hub commands demo
