@@ -1,0 +1,9 @@
+[3] 7:09:30 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\DemoJenkins\DemoJenkins.tws'
+[3] 7:09:30 PM: Log level: 4
+[3] 7:09:30 PM: Release: 12.1.0.22140
+[4] 7:09:30 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 7:09:30 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 7:09:30 PM:  ShowStatusInfo: 'Ready'
+[4] 7:09:33 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 7:09:33 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 7:09:38 PM:  ShowStatusInfo: 'Ready'

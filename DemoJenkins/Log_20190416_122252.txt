@@ -1,0 +1,25 @@
+[3] 12:22:52 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\DemoJenkins\DemoJenkins.tws'
+[3] 12:22:52 PM: Log level: 4
+[3] 12:22:52 PM: Release: 12.1.1.63
+[3] 12:22:52 PM: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 12:22:55 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.1.0.1108 (21570)
+    + : SAPSolutionManagerIntegration 12.1.0.484 (484)
+[3] 12:22:55 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:22:55 PM: Searcher found 0 results in 85.0136 ms
+[3] 12:22:55 PM:  + OptIntAddIn: OptIntAddIn 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  + RemoteControl: RemoteControlAddIn 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  + Reporting: ReportingAddIn 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  + ReportingUI: ReportingUIAddIn 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  - RequirementsManagementAddIn: RequirementsManagement 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  - RequirementsManagementUIAddIn: RequirementsManagementUI 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  - TestCaseDesign: TestCaseDesign 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  - ControlFlowDiagram: TestCaseVisualizationAddIn 12.1.0.1108 (21570)
+[3] 12:22:55 PM:  + XDefinitions: XDefinitions 12.1.0.1108 (21583)
+[3] 12:22:55 PM:  + XDefinitionsUI: XDefinitionsUI 12.1.0.1108 (21570)
+[3] 12:23:00 PM: Closing Workspace
+[3] 12:23:01 PM: Log closed!

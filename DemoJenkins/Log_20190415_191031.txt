@@ -1,0 +1,27 @@
+[3] 7:10:31 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\DemoJenkins\DemoJenkins.tws'
+[3] 7:10:31 PM: Log level: 4
+[3] 7:10:31 PM: Release: 12.1.1.63
+[3] 7:10:32 PM: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 7:10:34 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.1.0.1108 (21570)
+    + : SAPSolutionManagerIntegration 12.1.0.484 (484)
+[3] 7:10:34 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 7:10:34 PM: Searcher found 0 results in 83.0096 ms
+[3] 7:10:34 PM:  + OptIntAddIn: OptIntAddIn 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  + RemoteControl: RemoteControlAddIn 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  + Reporting: ReportingAddIn 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  + ReportingUI: ReportingUIAddIn 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  - RequirementsManagementAddIn: RequirementsManagement 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  - RequirementsManagementUIAddIn: RequirementsManagementUI 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  - TestCaseDesign: TestCaseDesign 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  - ControlFlowDiagram: TestCaseVisualizationAddIn 12.1.0.1108 (21570)
+[3] 7:10:34 PM:  + XDefinitions: XDefinitions 12.1.0.1108 (21583)
+[3] 7:10:34 PM:  + XDefinitionsUI: XDefinitionsUI 12.1.0.1108 (21570)
+[3] 7:10:35 PM: Search started on 'DemoJenkins' for query '=>SUBPARTS:TCFolder[(PossibleContent=?"ExecutionList") AND (ContinuousIntegrationBuildRootFolder=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 7:10:35 PM: Searcher found 0 results in 150.0215 ms
+[3] 7:10:35 PM: Closing Workspace
+[3] 7:10:35 PM: Log closed!

@@ -1,0 +1,94 @@
+[3] 3:20:31 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\DemoJenkins\DemoJenkins.tws'
+[3] 3:20:31 PM: Log level: 4
+[3] 3:20:31 PM: Release: 12.1.0.22140
+[3] 3:20:33 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.1.0.1108 (21570)
+    + : SAPSolutionManagerIntegration 12.1.0.484 (484)
+[3] 3:20:33 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 3:20:33 PM: Searcher found 0 results in 133.0053 ms
+[3] 3:20:33 PM:  + OptIntAddIn: OptIntAddIn 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + RemoteControl: RemoteControlAddIn 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + Reporting: ReportingAddIn 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + ReportingUI: ReportingUIAddIn 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + RequirementsManagementAddIn: RequirementsManagement 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + TestCaseDesign: TestCaseDesign 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 12.1.0.1108 (21570)
+[3] 3:20:33 PM:  + XDefinitions: XDefinitions 12.1.0.1108 (21583)
+[3] 3:20:33 PM:  + XDefinitionsUI: XDefinitionsUI 12.1.0.1108 (21570)
+[3] 3:20:33 PM: Opened from Workspace File 'C:\Tosca_Projects\TOSCA_Workspaces\DemoJenkins\DemoJenkins.tws'
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Ready'
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh navigation view 'BI-Testing''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Ready'
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh detail view 'BI-Testing''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:20:40 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Ready'
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'BI-Testing''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Ready'
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'BI-Testing''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Ready'
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh navigation view 'BI-Testing''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Ready'
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh detail view 'BI-Testing''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:20:41 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 3:20:41 PM: OpenWorkspace took 00:00:09.9254978 to finish
+[4] 3:20:57 PM:  ShowStatusInfo: 'Ready'
+[3] 3:21:56 PM: Closing Workspace!
+[3] 3:21:56 PM: Log closed!

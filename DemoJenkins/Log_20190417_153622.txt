@@ -1,0 +1,33 @@
+[3] 3:36:22 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\DemoJenkins\DemoJenkins.tws'
+[3] 3:36:22 PM: Log level: 4
+[3] 3:36:22 PM: Release: 12.1.1.63
+[3] 3:36:22 PM: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 3:36:25 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.1.0.1108 (21570)
+    + : SAPSolutionManagerIntegration 12.1.0.484 (484)
+[3] 3:36:25 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 3:36:25 PM: Searcher found 0 results in 100.9786 ms
+[3] 3:36:25 PM:  + OptIntAddIn: OptIntAddIn 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  + RemoteControl: RemoteControlAddIn 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  + Reporting: ReportingAddIn 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  + ReportingUI: ReportingUIAddIn 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  - RequirementsManagementAddIn: RequirementsManagement 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  - RequirementsManagementUIAddIn: RequirementsManagementUI 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  - TestCaseDesign: TestCaseDesign 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  - ControlFlowDiagram: TestCaseVisualizationAddIn 12.1.0.1108 (21570)
+[3] 3:36:25 PM:  + XDefinitions: XDefinitions 12.1.0.1108 (21583)
+[3] 3:36:25 PM:  + XDefinitionsUI: XDefinitionsUI 12.1.0.1108 (21570)
+[3] 3:36:25 PM: Search started on 'DemoJenkins' for query '=>SUBPARTS:TCFolder[(PossibleContent=?"ExecutionList") AND (ContinuousIntegrationBuildRootFolder=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 3:36:25 PM: Searcher found 1 results in 181.0029 ms
+[3] 3:36:25 PM: Search started on 'DemoJenkins' for query '=>SUBPARTS:ExecutionList[(ContinuousIntegration=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 3:36:25 PM: Searcher found 1 results in 1.9996 ms
+[3] 3:36:26 PM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.CreateTCFolderTask
+[3] 3:36:26 PM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.CreateExecutionMandateTask
+[3] 3:36:26 PM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.ClearActuallExecutionLogTask
+[3] 3:36:26 PM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.ClearAutoMergeListTask
+[3] 3:36:26 PM: API: Executing DropTask Tricentis.TCCore.BusinessObjects.Tasks.AssignMandateDropTask
+[3] 3:36:26 PM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.RunExecutionListTask

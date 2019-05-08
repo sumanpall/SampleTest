@@ -1,0 +1,148 @@
+[3] 6:26:17 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\DemoJenkins\DemoJenkins.tws'
+[3] 6:26:17 PM: Log level: 4
+[3] 6:26:17 PM: Release: 12.1.0.22140
+[3] 6:26:19 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.1.0.1108 (21570)
+[3] 6:26:19 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.1.0.1108 (21570)
+[3] 6:26:19 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.1.0.1108 (21570)
+[3] 6:26:19 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.1.0.1108 (21570)
+    + : SAPSolutionManagerIntegration 12.1.0.484 (484)
+[3] 6:26:19 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 6:26:19 PM: Searcher found 0 results in 90.0023 ms
+[3] 6:26:19 PM:  + OptIntAddIn: OptIntAddIn 12.1.0.1108 (21570)
+[3] 6:26:19 PM:  + RemoteControl: RemoteControlAddIn 12.1.0.1108 (21570)
+[3] 6:26:19 PM:  + Reporting: ReportingAddIn 12.1.0.1108 (21570)
+[3] 6:26:19 PM:  + ReportingUI: ReportingUIAddIn 12.1.0.1108 (21570)
+[3] 6:26:19 PM:  + RequirementsManagementAddIn: RequirementsManagement 12.1.0.1108 (21570)
+[3] 6:26:19 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 12.1.0.1108 (21570)
+[3] 6:26:19 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.1.0.1108 (21570)
+[3] 6:26:19 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 12.1.0.1108 (21570)
+[3] 6:26:20 PM:  + TestCaseDesign: TestCaseDesign 12.1.0.1108 (21570)
+[3] 6:26:20 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 12.1.0.1108 (21570)
+[3] 6:26:20 PM:  + XDefinitions: XDefinitions 12.1.0.1108 (21583)
+[3] 6:26:20 PM:  + XDefinitionsUI: XDefinitionsUI 12.1.0.1108 (21570)
+[3] 6:26:20 PM: Opened from Workspace File 'C:\Tosca_Projects\TOSCA_Workspaces\DemoJenkins\DemoJenkins.tws'
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Ready'
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'BI-Testing''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Ready'
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'BI-Testing''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Ready'
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'BI-Testing''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Ready'
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'BI-Testing''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Ready'
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh navigation view 'BI-Testing''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Ready'
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh detail view 'BI-Testing''
+[4] 6:26:24 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 6:26:25 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 6:26:25 PM: OpenWorkspace took 00:00:07.2258178 to finish
+[4] 6:26:29 PM:  ShowStatusInfo: 'Ready'
+[4] 6:26:42 PM:  ShowStatusInfo: '1 object selected'
+[4] 6:26:47 PM:  ShowStatusInfo: 'Ready'
+[4] 6:28:28 PM:  ShowStatusInfo: '1 object selected'
+[4] 6:28:28 PM:  ShowStatusInfo: 'Ready'
+[4] 6:28:34 PM:  ShowStatusInfo: '1 object selected'
+[4] 6:28:34 PM:  ShowStatusInfo: 'Ready'
+[4] 6:29:14 PM:  ShowStatusInfo: '1 object selected'
+[4] 6:29:14 PM:  ShowStatusInfo: 'Ready'
+[4] 6:29:16 PM:  ShowStatusInfo: '1 object selected'
+[4] 6:29:21 PM:  ShowStatusInfo: 'Ready'
+[4] 6:29:21 PM:  ShowStatusInfo: '1 object selected'
+[4] 6:29:21 PM:  ShowStatusInfo: 'Ready'
+[4] 6:30:00 PM:  ShowStatusInfo: '1 object selected'
+[4] 6:30:02 PM:  ShowStatusInfo: 'Ready'
+[4] 6:30:02 PM:  ShowStatusInfo: '1 object selected'
+[4] 6:30:03 PM:  ShowStatusInfo: 'Ready'
+[0] 6:31:42 PM: System.AggregateException: One or more errors occurred. ---> Microsoft.Identity.Client.MsalClientException: User canceled authentication. On an Android device, this could be due to the lack of capabilities, such as custom tabs, for the system browser. See https://aka.ms/msal-net-system-browsers for more information.
+   at Microsoft.Identity.Client.Internal.Requests.InteractiveRequest.VerifyAuthorizationResult()
+   at Microsoft.Identity.Client.Internal.Requests.InteractiveRequest.<ExecuteAsync>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Identity.Client.Internal.Requests.RequestBase.<RunAsync>d__16.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Identity.Client.PublicClientApplication.<AcquireTokenForUserCommonAsync>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Identity.Client.PublicClientApplication.<AcquireTokenAsync>d__9.MoveNext()
+   --- End of inner exception stack trace ---
+   at System.AggregateException.Handle(Func`2 predicate)
+   at Tricentis.Cloud.Common.Security.Authentication.B2CConnectionInfo.Authenticate()
+   at Tricentis.Cloud.Common.Security.Authentication.TricentisCloudEnvironment.AuthenticateUser()
+   at Tricentis.Cloud.Common.Security.Authentication.TricentisCloudEnvironment.GetEnvironment(String uri)
+   at Tricentis.TCCore.GUI.CustomControls.Backstage.CloudLoginUiHelper.StartLoginProcess(Object sender, EventArgs e)
+---> (Inner Exception #0) Microsoft.Identity.Client.MsalClientException: User canceled authentication. On an Android device, this could be due to the lack of capabilities, such as custom tabs, for the system browser. See https://aka.ms/msal-net-system-browsers for more information.
+   at Microsoft.Identity.Client.Internal.Requests.InteractiveRequest.VerifyAuthorizationResult()
+   at Microsoft.Identity.Client.Internal.Requests.InteractiveRequest.<ExecuteAsync>d__9.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Identity.Client.Internal.Requests.RequestBase.<RunAsync>d__16.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Identity.Client.PublicClientApplication.<AcquireTokenForUserCommonAsync>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Identity.Client.PublicClientApplication.<AcquireTokenAsync>d__9.MoveNext()
+	ErrorCode: authentication_canceled<---
+
+[3] 6:32:05 PM: Closing Workspace!
+[3] 6:32:05 PM: Log closed!

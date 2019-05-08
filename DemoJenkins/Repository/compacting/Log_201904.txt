@@ -1,0 +1,327 @@
+[Error] 4/15/2019 6:21:38 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/15/2019 6:21:38 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/15/2019 6:21:38 PM: Error loading application parameters, falling back to default.
+[Info] 4/15/2019 6:21:45 PM: Compacting started
+[Info] 4/15/2019 6:21:45 PM: 0/100 - Compacting Workspace
+[Info] 4/15/2019 6:21:45 PM: Compacting Workspace - Defragmentation finished in 00:00:00.3872933, database size: 10514432
+[Info] 4/15/2019 6:21:45 PM: -2147483648/-2147483648 - Recalculating index statistics
+[Info] 4/15/2019 6:21:45 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0450000, database size: 10514432
+[Info] 4/15/2019 6:21:45 PM: Compacting finished
+[Error] 4/15/2019 6:32:08 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/15/2019 6:32:08 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/15/2019 6:32:08 PM: Error loading application parameters, falling back to default.
+[Info] 4/15/2019 6:32:08 PM: 2/100 - Defragmenting Data - [estimated time left 8 s]
+[Info] 4/15/2019 6:32:08 PM: 13/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/15/2019 6:32:09 PM: 25/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/15/2019 6:32:10 PM: 36/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/15/2019 6:32:11 PM: 48/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/15/2019 6:32:12 PM: 59/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/15/2019 6:32:13 PM: 71/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/15/2019 6:32:14 PM: Compacting started
+[Info] 4/15/2019 6:32:14 PM: 83/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/15/2019 6:32:15 PM: Compacting Workspace - Defragmentation finished in 00:00:00.4111121, database size: 10604544
+[Info] 4/15/2019 6:32:15 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0418830, database size: 10604544
+[Info] 4/15/2019 6:32:15 PM: Compacting finished
+[Info] 4/15/2019 6:32:15 PM: 94/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 6:32:16 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 6:32:17 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 6:32:18 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 6:32:19 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 6:32:20 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/15/2019 7:21:12 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/15/2019 7:21:12 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/15/2019 7:21:12 PM: Error loading application parameters, falling back to default.
+[Info] 4/15/2019 7:21:12 PM: 2/100 - Defragmenting Data - [estimated time left 8 s]
+[Info] 4/15/2019 7:21:12 PM: 14/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/15/2019 7:21:13 PM: 25/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/15/2019 7:21:14 PM: 37/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/15/2019 7:21:15 PM: 49/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/15/2019 7:21:16 PM: 60/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/15/2019 7:21:17 PM: 72/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/15/2019 7:21:17 PM: Compacting started
+[Info] 4/15/2019 7:21:18 PM: Compacting Workspace - Defragmentation finished in 00:00:00.3550059, database size: 10604544
+[Info] 4/15/2019 7:21:18 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0420017, database size: 10604544
+[Info] 4/15/2019 7:21:18 PM: Compacting finished
+[Info] 4/15/2019 7:21:18 PM: 84/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/15/2019 7:21:19 PM: 96/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 7:21:20 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 7:21:21 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 7:21:22 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 7:21:23 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/15/2019 8:03:17 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/15/2019 8:03:17 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/15/2019 8:03:17 PM: Error loading application parameters, falling back to default.
+[Info] 4/15/2019 8:03:17 PM: 14/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/15/2019 8:03:17 PM: 2/100 - Defragmenting Data - [estimated time left 8 s]
+[Info] 4/15/2019 8:03:18 PM: 26/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/15/2019 8:03:19 PM: 38/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/15/2019 8:03:20 PM: 50/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/15/2019 8:03:21 PM: 62/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/15/2019 8:03:22 PM: 74/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/15/2019 8:03:23 PM: Compacting started
+[Info] 4/15/2019 8:03:23 PM: Compacting Workspace - Defragmentation finished in 00:00:00.3522796, database size: 10604544
+[Info] 4/15/2019 8:03:23 PM: 85/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/15/2019 8:03:23 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0416130, database size: 10604544
+[Info] 4/15/2019 8:03:23 PM: Compacting finished
+[Info] 4/15/2019 8:03:24 PM: 97/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 8:03:25 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 8:03:26 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 8:03:27 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/15/2019 8:03:28 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/16/2019 10:58:20 AM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/16/2019 10:58:20 AM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/16/2019 10:58:20 AM: Error loading application parameters, falling back to default.
+[Info] 4/16/2019 10:58:20 AM: 2/100 - Defragmenting Data - [estimated time left 8 s]
+[Info] 4/16/2019 10:58:20 AM: 14/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/16/2019 10:58:21 AM: 26/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/16/2019 10:58:22 AM: 39/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/16/2019 10:58:23 AM: 51/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/16/2019 10:58:24 AM: 63/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/16/2019 10:58:25 AM: Compacting started
+[Info] 4/16/2019 10:58:25 AM: 75/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/16/2019 10:58:25 AM: Compacting Workspace - Defragmentation finished in 00:00:00.5015724, database size: 10604544
+[Info] 4/16/2019 10:58:25 AM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0534907, database size: 10604544
+[Info] 4/16/2019 10:58:25 AM: Compacting finished
+[Info] 4/16/2019 10:58:26 AM: 88/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 10:58:27 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 10:58:28 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/16/2019 12:23:25 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/16/2019 12:23:25 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/16/2019 12:23:25 PM: Error loading application parameters, falling back to default.
+[Info] 4/16/2019 12:23:25 PM: 2/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/16/2019 12:23:25 PM: 15/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/16/2019 12:23:26 PM: 27/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/16/2019 12:23:27 PM: 40/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/16/2019 12:23:28 PM: 53/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/16/2019 12:23:29 PM: 65/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/16/2019 12:23:30 PM: 78/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/16/2019 12:23:30 PM: Compacting started
+[Info] 4/16/2019 12:23:31 PM: Compacting Workspace - Defragmentation finished in 00:00:00.4910143, database size: 10608640
+[Info] 4/16/2019 12:23:31 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0499804, database size: 10608640
+[Info] 4/16/2019 12:23:31 PM: Compacting finished
+[Info] 4/16/2019 12:23:31 PM: 90/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 12:23:32 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 12:23:33 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 12:23:34 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 12:23:35 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 12:23:36 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/16/2019 2:09:58 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/16/2019 2:09:58 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/16/2019 2:09:58 PM: Error loading application parameters, falling back to default.
+[Info] 4/16/2019 2:09:58 PM: 3/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/16/2019 2:09:58 PM: 16/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/16/2019 2:09:59 PM: 28/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/16/2019 2:10:00 PM: 41/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/16/2019 2:10:01 PM: 54/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/16/2019 2:10:02 PM: 67/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/16/2019 2:10:03 PM: Compacting started
+[Info] 4/16/2019 2:10:03 PM: 80/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/16/2019 2:10:03 PM: Compacting Workspace - Defragmentation finished in 00:00:00.3590532, database size: 10608640
+[Info] 4/16/2019 2:10:03 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0399056, database size: 10608640
+[Info] 4/16/2019 2:10:03 PM: Compacting finished
+[Info] 4/16/2019 2:10:04 PM: 92/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 2:10:05 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 2:10:06 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 2:10:07 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 2:10:08 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/16/2019 2:37:03 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/16/2019 2:37:03 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/16/2019 2:37:03 PM: Error loading application parameters, falling back to default.
+[Info] 4/16/2019 2:37:03 PM: 15/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/16/2019 2:37:03 PM: 2/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/16/2019 2:37:04 PM: 28/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/16/2019 2:37:05 PM: 41/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/16/2019 2:37:06 PM: 54/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/16/2019 2:37:07 PM: 67/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/16/2019 2:37:08 PM: Compacting started
+[Info] 4/16/2019 2:37:08 PM: 80/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/16/2019 2:37:09 PM: Compacting Workspace - Defragmentation finished in 00:00:00.3899727, database size: 10612736
+[Info] 4/16/2019 2:37:09 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0430037, database size: 10612736
+[Info] 4/16/2019 2:37:09 PM: Compacting finished
+[Info] 4/16/2019 2:37:09 PM: 93/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 2:37:10 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 2:37:11 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 2:37:12 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 2:37:13 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/16/2019 3:22:00 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/16/2019 3:22:00 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/16/2019 3:22:00 PM: Error loading application parameters, falling back to default.
+[Info] 4/16/2019 3:22:00 PM: 16/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/16/2019 3:22:00 PM: 3/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/16/2019 3:22:01 PM: 29/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/16/2019 3:22:02 PM: 42/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/16/2019 3:22:03 PM: 55/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/16/2019 3:22:04 PM: 68/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/16/2019 3:22:04 PM: Compacting started
+[Info] 4/16/2019 3:22:05 PM: 81/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/16/2019 3:22:05 PM: Compacting Workspace - Defragmentation finished in 00:00:00.4432334, database size: 10612736
+[Info] 4/16/2019 3:22:05 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0929749, database size: 10612736
+[Info] 4/16/2019 3:22:05 PM: Compacting finished
+[Info] 4/16/2019 3:22:06 PM: 94/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 3:22:07 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 3:22:08 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 3:22:09 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 3:22:10 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/16/2019 3:38:18 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/16/2019 3:38:18 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/16/2019 3:38:18 PM: Error loading application parameters, falling back to default.
+[Info] 4/16/2019 3:38:18 PM: 16/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/16/2019 3:38:18 PM: 3/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/16/2019 3:38:19 PM: 29/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/16/2019 3:38:20 PM: 42/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/16/2019 3:38:21 PM: 55/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/16/2019 3:38:22 PM: 69/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/16/2019 3:38:23 PM: Compacting started
+[Info] 4/16/2019 3:38:23 PM: 82/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/16/2019 3:38:23 PM: Compacting Workspace - Defragmentation finished in 00:00:00.4730599, database size: 10612736
+[Info] 4/16/2019 3:38:23 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0469625, database size: 10612736
+[Info] 4/16/2019 3:38:23 PM: Compacting finished
+[Info] 4/16/2019 3:38:24 PM: 95/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 3:38:25 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 3:38:26 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 3:38:27 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 3:38:28 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 3:38:29 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/16/2019 4:07:54 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/16/2019 4:07:54 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/16/2019 4:07:54 PM: Error loading application parameters, falling back to default.
+[Info] 4/16/2019 4:07:54 PM: 16/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/16/2019 4:07:54 PM: 2/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/16/2019 4:07:55 PM: 29/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/16/2019 4:07:56 PM: 42/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/16/2019 4:07:57 PM: 55/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/16/2019 4:07:58 PM: 69/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/16/2019 4:07:59 PM: Compacting started
+[Info] 4/16/2019 4:07:59 PM: 82/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/16/2019 4:07:59 PM: Compacting Workspace - Defragmentation finished in 00:00:00.3991261, database size: 10612736
+[Info] 4/16/2019 4:08:00 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0448623, database size: 10612736
+[Info] 4/16/2019 4:08:00 PM: Compacting finished
+[Info] 4/16/2019 4:08:00 PM: 95/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:08:01 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:08:02 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:08:03 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:08:04 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/16/2019 4:28:08 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/16/2019 4:28:08 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/16/2019 4:28:08 PM: Error loading application parameters, falling back to default.
+[Info] 4/16/2019 4:28:09 PM: 16/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/16/2019 4:28:09 PM: 3/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/16/2019 4:28:10 PM: 30/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/16/2019 4:28:11 PM: 43/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/16/2019 4:28:12 PM: 57/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/16/2019 4:28:13 PM: 70/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/16/2019 4:28:13 PM: Compacting started
+[Info] 4/16/2019 4:28:14 PM: 84/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/16/2019 4:28:14 PM: Compacting Workspace - Defragmentation finished in 00:00:00.3833832, database size: 10158080
+[Info] 4/16/2019 4:28:14 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0979127, database size: 10158080
+[Info] 4/16/2019 4:28:14 PM: Compacting finished
+[Info] 4/16/2019 4:28:15 PM: 97/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:28:16 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:28:17 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:28:18 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:28:19 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/16/2019 4:32:59 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/16/2019 4:32:59 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/16/2019 4:32:59 PM: Error loading application parameters, falling back to default.
+[Info] 4/16/2019 4:32:59 PM: 17/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/16/2019 4:32:59 PM: 3/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/16/2019 4:33:00 PM: 30/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/16/2019 4:33:01 PM: 44/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/16/2019 4:33:02 PM: 58/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/16/2019 4:33:03 PM: 72/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/16/2019 4:33:04 PM: 85/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/16/2019 4:33:04 PM: Compacting started
+[Info] 4/16/2019 4:33:05 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:33:05 PM: Compacting Workspace - Defragmentation finished in 00:00:00.3580114, database size: 10158080
+[Info] 4/16/2019 4:33:05 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0419851, database size: 10158080
+[Info] 4/16/2019 4:33:05 PM: Compacting finished
+[Info] 4/16/2019 4:33:06 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:33:07 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:33:08 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:33:09 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 4:33:10 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/16/2019 11:33:06 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/16/2019 11:33:06 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/16/2019 11:33:06 PM: Error loading application parameters, falling back to default.
+[Info] 4/16/2019 11:33:07 PM: 2/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/16/2019 11:33:07 PM: 16/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/16/2019 11:33:08 PM: 30/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/16/2019 11:33:09 PM: 44/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/16/2019 11:33:10 PM: 58/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/16/2019 11:33:11 PM: 72/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/16/2019 11:33:12 PM: 85/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/16/2019 11:33:12 PM: Compacting started
+[Info] 4/16/2019 11:33:13 PM: Compacting Workspace - Defragmentation finished in 00:00:00.3496883, database size: 10289152
+[Info] 4/16/2019 11:33:13 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0404998, database size: 10289152
+[Info] 4/16/2019 11:33:13 PM: Compacting finished
+[Info] 4/16/2019 11:33:13 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 11:33:14 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 11:33:15 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 11:33:16 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 11:33:17 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/16/2019 11:33:18 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Error] 4/17/2019 3:30:51 PM: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+[Exception] 4/17/2019 3:30:51 PM: Tricentis.TCCore.Persistency.ApplicationParametersException: No application parameters were found. Use the 'ApplicationParameterTypeAttribute' to specify the assembly holding application parameters.
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.Load()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParametersLoader.LoadApplicationParameters()
+   at Tricentis.TCCore.Persistency.ApplicationEnvironment.ApplicationParameters.get_Instance()
+[Error] 4/17/2019 3:30:51 PM: Error loading application parameters, falling back to default.
+[Info] 4/17/2019 3:30:51 PM: 16/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 4/17/2019 3:30:51 PM: 2/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 4/17/2019 3:30:52 PM: 30/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 4/17/2019 3:30:53 PM: 44/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 4/17/2019 3:30:54 PM: 58/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 4/17/2019 3:30:55 PM: 71/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 4/17/2019 3:30:56 PM: 85/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 4/17/2019 3:30:56 PM: Compacting started
+[Info] 4/17/2019 3:30:57 PM: Compacting Workspace - Defragmentation finished in 00:00:00.4114505, database size: 10350592
+[Info] 4/17/2019 3:30:57 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0429294, database size: 10350592
+[Info] 4/17/2019 3:30:57 PM: Compacting finished
+[Info] 4/17/2019 3:30:57 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/17/2019 3:30:58 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/17/2019 3:30:59 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/17/2019 3:31:00 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/17/2019 3:31:01 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 4/17/2019 3:31:02 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]

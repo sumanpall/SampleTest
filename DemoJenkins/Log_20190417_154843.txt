@@ -1,0 +1,4 @@
+[3] 3:48:43 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\DemoJenkins\DemoJenkins.tws'
+[3] 3:48:43 PM: Log level: 4
+[3] 3:48:43 PM: Release: 12.1.1.63
+[3] 3:48:43 PM: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'

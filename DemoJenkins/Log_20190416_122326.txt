@@ -1,0 +1,4 @@
+[3] 12:23:26 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\DemoJenkins\DemoJenkins.tws'
+[3] 12:23:26 PM: Log level: 4
+[3] 12:23:26 PM: Release: 12.1.0.22140
+[4] 12:23:26 PM:  ShowStatusInfo: 'Ready'
